@@ -80,5 +80,5 @@ pip install numpy pandas scikit-learn imbalanced-learn matplotlib
 
 **GitHub Links**:  
 - [Ananna’s Repository](https://github.com/Anannabiswas/PD_Classification_Using_Voice_Data/tree/main)  
-- [Keerthi’s Repository](https://github.com/keerthikesavan/parkinsons-voice-prediction)  
+- [Keerthi’s Repository](https://github.com/KeerthiK79/PD_Classification_Using_Voice_Data)  
 
